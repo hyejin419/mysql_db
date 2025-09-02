@@ -17,12 +17,21 @@
 ## 📂 프로젝트 구조
 
 ├── controller/ # 비즈니스 로직 처리
+
 ├── data/ # 데이터 파일 저장소
+
 ├── db/ # 데이터베이스 연결 모듈
+
 ├── middleware/ # 공통 미들웨어 정의
+
 ├── router/ # 라우터 정의
+
 ├── .gitignore # Git 관리 제외 파일 목록
+
 ├── app.mjs # 애플리케이션 진입점
+
 ├── config.mjs # 환경 설정
+
 ├── database.sql # 데이터베이스 초기화 스크립트
+
 └── package.json # 프로젝트 의존성 관리
